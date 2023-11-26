@@ -1,0 +1,37 @@
+.item-container {
+  display: grid;
+  grid-template-columns: 1fr 3fr 2fr;
+}
+
+.item-image {
+  padding: 2%;
+  display: flex;
+  justify-content: center;
+}
+
+.item-image img {
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain;
+  cursor: pointer;
+}
+
+.item-info-center {
+  padding: 2%;
+}
+
+.item-info-price {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0.5rem 0;
+}
+
+.item-info-right {
+  padding: 5%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.item-info-right span {
+  color: #808080;
+}

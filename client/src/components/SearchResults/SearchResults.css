@@ -1,0 +1,9 @@
+.search-results-container {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+}
