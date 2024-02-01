@@ -11,6 +11,11 @@ Este proyecto es una solución desarrollada como respuesta a un test de frontend
 - **Express**: Framework de Node.js para construir la API del servidor.
 - **CSS**: Para estilizar la interfaz de usuario.
 
+## Algunas fotos
+
+![Example Image](photos/photo1.png)
+![Example Image](photos/photo2.png)
+
 ## Comandos Disponibles
 
 - Para levantar el server, puedes utilizar el siguiente comando:

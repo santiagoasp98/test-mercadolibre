@@ -23,7 +23,6 @@ app.get('/api/items', async (req, res) => {
         title: item.title,
         price: item.price,
         currency_id: item.currency_id,
-        city: item.seller_address.city.name,
         picture: item.thumbnail,
         condition: item.condition,
         free_shipping: item.shipping.free_shipping
